@@ -5,6 +5,9 @@
 
 The "Skyland" game is a one-level platform video game where the player controls an avatar to navigate through a challenging landscape, avoid obstacles, and collect trophies. The game features dynamic obstacles, trophies, and an AI-controlled enemy.
 
+<img width="597" alt="Screenshot 2023-08-14 at 6 18 22 AM" src="https://github.com/DhruvShukla01/myproject-Skyland-python/assets/135282874/684c1fa8-cbb5-41bf-9fd5-9bc7ddf8997a">
+<img width="597" alt="Screenshot 2023-08-14 at 6 18 50 AM" src="https://github.com/DhruvShukla01/myproject-Skyland-python/assets/135282874/ec548178-a867-4d35-828a-cec4047bead2">
+
 ## Table of Contents
 
 - [Introduction](#skyland-game)
